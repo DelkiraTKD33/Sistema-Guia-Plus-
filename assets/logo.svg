@@ -1,0 +1,22 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="60" cy="60" r="58" fill="#1e3a5f" stroke="#3dd9b8" stroke-width="4"/>
+  
+  <!-- Gorro de graduación -->
+  <path d="M30 45 L60 35 L90 45 L90 55 L85 57 L85 65 C85 70 75 75 60 75 C45 75 35 70 35 65 L35 57 L30 55 Z" fill="#3dd9b8"/>
+  
+  <!-- Borla del gorro -->
+  <circle cx="85" cy="52" r="3" fill="#f39c12"/>
+  <line x1="85" y1="52" x2="88" y2="48" stroke="#f39c12" stroke-width="2"/>
+  
+  <!-- Libro abierto -->
+  <path d="M40 80 L60 75 L80 80 L80 95 L60 90 L40 95 Z" fill="#ecf0f1"/>
+  <line x1="60" y1="75" x2="60" y2="90" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="45" y1="82" x2="55" y2="82" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="45" y1="85" x2="55" y2="85" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="65" y1="82" x2="75" y2="82" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="65" y1="85" x2="75" y2="85" stroke="#7f8c8d" stroke-width="1"/>
+  
+  <!-- Texto GuíaPlus -->
+  <text x="60" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e3a5f">GuíaPlus</text>
+</svg>

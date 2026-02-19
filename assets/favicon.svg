@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="16" cy="16" r="15" fill="#1e3a5f"/>
+  
+  <!-- Gorro de graduación simplificado -->
+  <path d="M8 12 L16 9 L24 12 L24 15 L22 16 L22 18 C22 19 19 20 16 20 C13 20 10 19 10 18 L10 16 L8 15 Z" fill="#3dd9b8"/>
+  
+  <!-- Borla -->
+  <circle cx="22" cy="14" r="1" fill="#f39c12"/>
+  
+  <!-- Libro pequeño -->
+  <path d="M10 22 L16 20 L22 22 L22 26 L16 24 L10 26 Z" fill="#ecf0f1"/>
+  <line x1="16" y1="20" x2="16" y2="24" stroke="#bdc3c7" stroke-width="0.5"/>
+</svg>

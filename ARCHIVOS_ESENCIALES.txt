@@ -1,0 +1,65 @@
+# ARCHIVOS ESENCIALES DEL SISTEMA GUÍAPLUS
+
+## ARCHIVOS PRINCIPALES (NO ELIMINAR)
+- server.js
+- package.json
+- package-lock.json
+- .env
+- .gitignore
+- .prettierrc
+- eslint.config.js
+
+## FRONTEND ESENCIAL
+- index.html
+- login.html
+- styles.css
+- script.js
+- api.js
+
+## FUNCIONALIDAD ESPECÍFICA
+- asignaciones-tutores-funcionalidad.js
+- usuarios-funcionalidad.js
+- reportes-nuevas.js
+- tutores-funcionalidad.js
+
+## BACKEND ESENCIAL
+### Rutas
+- routes/auth.js
+- routes/estudiantes.js
+- routes/tutores.js
+- routes/asignaciones.js
+- routes/usuarios.js
+- routes/reportes.js
+
+### Modelos
+- models/Usuario.js
+- models/Estudiante.js
+- models/Tutor.js
+- models/Asignacion.js
+
+### Middleware
+- middleware/auth.js
+- middleware/errorHandler.js
+- middleware/security.js
+- middleware/validator.js
+
+### Configuración
+- config/database.js
+
+## ASSETS
+- assets/logo.svg
+- assets/favicon.svg
+
+## SCRIPTS DE UTILIDAD (MANTENER)
+- cargar-datos-prueba.js
+- verificar-roles.js
+- crear-asignaciones-prueba.js
+- corregir-tutores-estudiantes.js
+
+## DOCUMENTACIÓN FINAL
+- README.md
+- CORRECCIONES_APLICADAS_FINAL.md
+
+## ARCHIVOS DE INICIO
+- INICIAR-SISTEMA.bat
+- iniciar-servidor-mongodb.bat
